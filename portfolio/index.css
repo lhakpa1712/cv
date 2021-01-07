@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    text-align: center;
+   
+}
+h1{
+    font-size: 50px;
+    color: #66bfbf;
+}
+h3{
+    font-weight: large;
+    color: #66bfbf;
+    line-height: 2;
+}
+h2{
+    color: #66bfbf;
+    line-height: 2;
+
+}
+.top__container{
+    background-color: rgb(181, 223, 228);
+    padding-top: 100px;
+    position: relative;
+    font-family: 'Sacramento', cursive;
+    line-height: 3;
+    
+}
+
+
+.top__cloud{
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
+.bottom__cloud{
+    position: absolute;
+    left: 100px;
+}
+.profile__img{
+    border-radius: 50%;
+    height: 200px;
+    padding-top: 10px;
+    
+
+
+    
+}
+.skills{
+    position: relative;
+
+}
+.skillpicsa{
+    position: absolute ;
+    height: 100px;
+    left: 10%;
+    top: 20%;
+}
+.skillpicsb{
+    position: absolute ;
+    height: 100px;
+    top:10%;
+    left: 30%
+    ;
+}
+.skillpicsc{
+    position: absolute ;
+    height: 100px;
+    top:20% ;
+    right: 35%;
+}
+.skillpicsd{
+    position: absolute ;
+    height: 100px;
+    top:12%;
+    right: 15%;
+    
+
+}
+.skillpicse{
+    position: absolute ;
+    height: 100px;
+    top:30%;
+    right: 47%;
+}
+   
+.skill-row{
+    text-align: left;
+    line-height:2 ;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+.skill_rowa >p{
+    margin-bottom: 45vh;
+    color: white;
+}
+.youtube{
+    width: 25%;
+    float: right;
+    margin-left: 30px ;
+    margin-bottom: 10px;
+    
+}
+.code_img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+.code_text{
+    padding: 0 10px;
+    margin-bottom: 100px;
+}
+.youtubetext{
+    margin-bottom: 100px;
+}
+hr{
+    border:dashed lightgrey 4px;
+    width: 4%;
+}
+a{
+    text-decoration: none;
+    color: black ;
+    font-weight: normal;
+    padding: 10px;
+}
+.middlecontainer{
+    margin: 100px 0;
+}
+.contact-me{
+    text-align: center;
+
+}
+.bottom-container{
+    background-color: rgb(181, 223, 228);
+    height: 10vh;
+    padding: 50px 0 20px;
+}
+.btn{
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+}
